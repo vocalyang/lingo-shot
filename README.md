@@ -1,2 +1,1 @@
-# lingo-shot
-Created with CodeSandbox
+20220315
